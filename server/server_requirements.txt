@@ -1,0 +1,6 @@
+paddlenlp==2.1.1
+paddlepaddle==2.2.0
+numpy==1.19.5
+uvicorn==0.15.0
+gunicorn==20.1.0
+fastapi==0.70.0

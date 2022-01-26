@@ -1,0 +1,4 @@
+paddlenlp==2.1.1
+paddlepaddle==2.2.0
+numpy==1.19.5
+scikit-learn==1.0.1
